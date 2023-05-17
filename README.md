@@ -1,5 +1,6 @@
 # Git Hands-On Workshop
 
+# My fav number is 5
 ## 0. PowerShell Prep
 
 ```powershell
@@ -14,8 +15,7 @@ Set-Alias open start
 ## 1. Help
 
 ```powershell
-git help                        # General help
-git help --guide                # Common Git guides
+git help                        # General helpgit help --guide                # Common Git guides
 ```
 
 ## 2. Configuration
